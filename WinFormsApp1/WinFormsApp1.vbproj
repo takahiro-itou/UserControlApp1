@@ -15,6 +15,12 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Reference Include="WinFormsControlLibrary1">
+      <HintPath>..\..\UserControlTest1\WinFormsControlLibrary1\bin\Debug\net9.0-windows\WinFormsControlLibrary1.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
     <Compile Update="My Project\Application.Designer.vb">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
