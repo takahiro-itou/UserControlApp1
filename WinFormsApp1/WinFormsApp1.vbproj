@@ -15,9 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="WinFormsControlLibrary1">
-      <HintPath>..\..\UserControlTest1\WinFormsControlLibrary1\bin\Debug\net9.0-windows\WinFormsControlLibrary1.dll</HintPath>
-    </Reference>
+    <PackageReference Include="WinFormsControlLibrary1" Version="1.0.0" />
   </ItemGroup>
 
   <ItemGroup>
